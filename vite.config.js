@@ -5,6 +5,6 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-    base: '/responsive_nav1/',    // ← add this line
+    base: '/Responsive_Nav1/',    // ← add this line
   plugins: [react(), tailwindcss(),],
 })
